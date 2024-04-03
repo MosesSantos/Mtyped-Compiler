@@ -1,0 +1,26 @@
+Reading file .\InputFiles\MTYPED_Hello.mty ....Please wait
+
+Printing input buffer parameters:
+
+The capacity of the buffer is:  200
+The current size of the buffer is:  55
+
+Printing input buffer contents:
+
+//mtyped hello world
+
+main(){
+	print("hello world");
+}
+
+Parsing the source file...
+
+mtyped: Comment statements parsed
+mtyped: Output Statment  parsed
+mtyped: Statement parsed
+mtyped: Optional statements parsed
+mtyped: Code Session parsed
+mtyped: Program parsed
+mtyped: Source file parsed
+
+Collecting garbage...

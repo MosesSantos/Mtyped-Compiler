@@ -1,0 +1,10 @@
+//mtyped(Volume of a Sphere)
+
+main(){
+
+	float pi, r, vol;
+	pi = 3.14;
+	read(r);
+	vol = 4.0 / 3.0 * pi * (r * r * r);
+	print(vol);
+}
